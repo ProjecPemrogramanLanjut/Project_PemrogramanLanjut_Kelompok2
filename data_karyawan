@@ -367,3 +367,4 @@ public class data_karyawan extends javax.swing.JFrame {
     private javax.swing.JTextField txtuanglembur;
     // End of variables declaration                   
 }
+
